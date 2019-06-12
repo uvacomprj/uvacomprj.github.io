@@ -135,7 +135,9 @@ func main() {
 			default:
 				return
 			}
-			bot.Send(msg)
+			if( len(msg.Text) > 0) {
+				bot.Send(msg)
+			}
 		}
 
 	}
