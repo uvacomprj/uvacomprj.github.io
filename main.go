@@ -133,7 +133,7 @@ func main() {
 			<strong>Tópicos Especiais em Compiladores</strong>: https://t.me/joinchat/AvwFpQwuw5Z4WLsz1pWcvQ`
 
 			default:
-				return
+				msg.Text = ""
 			}
 			if( len(msg.Text) > 0) {
 				bot.Send(msg)
