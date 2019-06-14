@@ -58,6 +58,7 @@ func main() {
 			<strong>Eliane Xavier Cavalcanti</strong> eliane@cnen.gov.br
 			<strong>Jobson Luiz</strong> jobson.silva@uva.br
 			<strong>Matheus Bandini</strong> matheusbandini@gmail.com
+			<strong>Marcelo Nascimento</strong> marcelo.nascimento@uva.br
 			<strong>Miguel Figueiredo</strong> miguel.figueiredo@uva.br miguel.azf@gmail.com
 			<strong>Roberto Luís Miranda Pereira de Castro</strong> roberto.castro@uva.br
 			<strong>Rossandro Ramos</strong> prof.rossandro@gmail.com
