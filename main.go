@@ -44,7 +44,7 @@ func main() {
 				msg.Text = ReadTextFile("./Messages/groups.html")
 
 			default:
-				return
+				msg.Text = ""
 			}
 			if len(msg.Text) > 0 {
 				bot.Send(msg)
