@@ -15,10 +15,10 @@ Caso haja alguma informação a ser atualizada neste documento, informe-a no gru
 
 ## Principais
 
-- Grupo Facebook: https://www.facebook.com/groups/uva.comp/
-- Google Drive: https://drive.google.com/drive/folders/0B5eVrMuAr6lbUzhya09SQ05fckU
-- Grupo Telegram: https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ
-- Canal de Avisos: https://t.me/joinchat/AAAAAEMcDIAnDORJsLYYdA
+- [Grupo Facebook](https://www.facebook.com/groups/uva.comp/)
+- [Google Drive](https://drive.google.com/drive/folders/0B5eVrMuAr6lbUzhya09SQ05fckU)
+- [Grupo Telegram](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ)
+- [Canal de Avisos](https://t.me/joinchat/AAAAAEMcDIAnDORJsLYYdA)
 
 ## Chats
 
@@ -57,7 +57,7 @@ Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, o
 - Interação Humano Computador
 - Linguagens Formais, Autômatos e Computabilidade
 - Matemática Discreta
-- Metodologia Científica
+- [Metodologia Científica](https://t.me/joinchat/AvwFpVHo69dLSqx8Bh5BAw)
 - Modelagem Computacional
 - [Monografia](https://t.me/joinchat/CibjPA2Yk3T7im9Ih1xY8g)
 - Programação Paralela
@@ -91,7 +91,7 @@ Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, o
 - **Douglas Ericsson**: _ericsonmarc@gmail.com_
 - **Edgar Gurgel**: _edgar@uva.br_, _edgar@cos.ufrj.br_
 - **Edwilliam Maia**: _edwillian@hotmail.com_
-- **Elias Restum Antônio**: _eliasra@globo.com_
+- **Elias Restum Antônio**: _elias.antonio@uva.br_, _eliasra@globo.com_
 - **Eliane Xavier Cavalcanti**: _eliane@cnen.gov.br_
 - **Jobson Luiz**: _jobson.silva@uva.br_
 - **Matheus Bandini**: _matheusbandini@gmail.com_
