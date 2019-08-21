@@ -3,13 +3,13 @@ Se você deseja sugerir alguma alteração para esta página, [clique aqui](http
 
 # README
 
-_Universidade Veiga de Almeida - Ciência e Engenharia da Computação_
+_Universidade Veiga de Almeida - Cursos de Computação_
 
-Aqui você encontra todas as informações pertinentes aos cursos de Ciência e Engenharia da Computação da UVA.
+Aqui você encontra todas as informações pertinentes aos cursos de Computação da UVA (Ciência da Computação, Engenharia da Computação e Sistemas de Informação).
 
 O documento está divido em 2 partes, a de links, onde redireciona para grupos onde mantemos a comunicação. E docente, onde há informações como e-mails, linhas de pesquisa dos professores e como agendar um horário com o coordenador do curso.
 
-Caso haja alguma informação a ser atualizada neste documento, informe-a no grupo principal do Telegram.
+Caso haja alguma informação a ser atualizada neste documento, por favor ofereça o seu patch, ou sugira a atualização no grupo principal do Telegram.
 
 # LINKS
 
