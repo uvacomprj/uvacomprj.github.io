@@ -84,7 +84,7 @@ Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, o
 - **André Lucio de Oliveira**: _andre.oliveira@uva.br_
 - **Alfredo Boente**: _professor@boente.eti.br_
 - **Camilla Lobo Paulino**: _profcamilla@uol.com.br_
-- **Carlos Alberto Alves Lemos**: _caalemos@ig.com.br_
+- **Carlos Alberto Alves Lemos**: _caalemos@gmail.com_
 - **Carlos Augusto Sicsú Ayres Nascimento**: _caugusto.sicsu@uva.br_
 - **Carlos Frederico Motta Vasconcelos**: _cfmotta_2001@yahoo.com_
 - **Claudio Jose Marques de Souza**: _cjms70@gmail.com_
