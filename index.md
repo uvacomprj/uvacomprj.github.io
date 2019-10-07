@@ -90,12 +90,9 @@ Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, o
 - **Claudio Jose Marques de Souza**: _cjms70@gmail.com_
 - **Douglas Ericsson**: _ericsonmarc@gmail.com_
 - **Edgar Gurgel**: _edgar@uva.br_, _edgar@cos.ufrj.br_
-- **Edwilliam Maia**: _edwillian@hotmail.com_
 - **Elias Restum Antônio**: _elias.antonio@uva.br_, _eliasra@globo.com_
 - **Eliane Xavier Cavalcanti**: _eliane@cnen.gov.br_
-- **Jobson Luiz**: _jobson.silva@uva.br_
 - **Matheus Bandini**: _matheusbandini@gmail.com_
-- **Matheus da Hora**: _mattheus.franca@uva.br_, _mattheushora@gmail.com_
 - **Miguel Figueiredo**: _miguel.figueiredo@uva.br_, _miguel.azf@gmail.com_
 - **Roberto Luís Miranda Pereira de Castro**: _roberto.castro@uva.br_
 - **Rossandro Ramos**: _prof.rossandro@gmail.com_
@@ -195,13 +192,6 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Programação
 - Sistemas paralelos e distribuídos
 
-### Edwillian Maia
-
-- Gerência de Projetos
-- Programação WEB
-- E-Commerce – E-Business
-- Automação de Empresas
-
 ### Edgar Gurgel
 
 - Engenharia de Software
@@ -256,14 +246,6 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Adaptative Education
 - IoT
 
-### Jobson Luiz
-
-- Metodologias de desenvolvimento (análise, modelagem & projeto)
-- Garantia da qualidade (testes & inspeções)
-- Modelos de maturidade de processos de software
-- Gerenciamento de Projetos
-- Projeto de Interfaces Humano-Computador (IHC)
-
 ### Marcelo Nascimento Costa
 
 - Metodologias de desenvolvimento (análise, modelagem & projeto) e garantia da qualidade (testes & inspeções)
@@ -288,16 +270,6 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Sistemas distribuídos e aplicações
 - Bancos de dados distribuídos para aplicações de alto desempenho
 - Mineração de dados
-
-### Matheus da Hora
-
-- Programação
-- Computação Gráfica
-- Realidade Virtual
-- Visão Computacional
-- Banco de Dados
-- Desenvolvimento Web
-- Dispositivos Móveis
 
 ### Miguel Ângelo Zaccur de Figueiredo
 
