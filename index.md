@@ -32,48 +32,53 @@ Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, o
 
 - Álgebra Linear
 - Algoritmos e Programação
-- Analise Orientada a Objetos
-- Aplicações na Internet
-- Arquitetura dos Computadores
-- Banco de Dados
+- [Analise Orientada a Objetos](https://t.me/joinchat/AvwFpUiH4s8M2STQjUsYzQ)
+- [Aplicações na Internet](https://t.me/joinchat/AvwFpU0WeWw_BBK-4dQEjg)
+- [Arquitetura de Computadores](https://t.me/joinchat/AvwFpVYEYrxirrsx71620w)
+- [Bancos de Dados (BD1 e BD2)](https://t.me/joinchat/AvwFpRfAyL0qxsi2WJ-o5g)
 - Calculo Elementar
 - Calculo Numérico
 - Calculo Vetorial e Geometria Analítica
 - Ciências Ambientais
-- Computação Gráfica
+- [Computação Gráfica (CG)](https://t.me/joinchat/AvwFpU34q8ljFiGfdyWo_A)
 - Comunicação Oral e Escrita
-- Conceitos de Linguagem de Programação
+- [Conceitos de Linguagens de Programação (CLP)](https://t.me/joinchat/AvwFpUYM3nYX7-V4fT3SzA)
+- [CVGA (Cálculo Vetorial e Geometria Analítica)](https://t.me/joinchat/AvwFpRbTkP9Iw8uUspZt9Q)
 - Empreendedorismo
-- Engenharia de Software
-- Estatística
-- Estrutura de Dados
+- [Engenharia de Software](https://t.me/joinchat/Bj0snhDQSrpKjYdNZ5Pfag)
 - Estágio Supervisionado
-- Filosofia
-- Fundamentos de Calculo
-- Gerencia de Projetos
-- Gestão de Negócios e Ética
-- [Governança Corporativa em TI](https://t.me/joinchat/AvwFpRHa6v6nvD0TFiBMeA)
-- [Inteligência Computacional](https://t.me/joinchat/Chd0XUMeZXte7mOeonuNEA)
-- Interação Humano Computador
-- Linguagens Formais, Autômatos e Computabilidade
-- Matemática Discreta
+- [Estatística](https://t.me/joinchat/AvwFpQlAzWxR2V5_R1f7cw)
+- [Estruturas de Dados](https://t.me/joinchat/AvwFpVf0Ol7c-W8nBhZsCQ)
+- [Filosofia](https://t.me/joinchat/AvwFpRH9KyBcd2GWRsDpiA)
+- Fundamentos de Cálculo
+- [Gerência de Projetos](https://t.me/joinchat/AvwFpUd6M0WqZgEovlB-2Q)
+- [Gestão de Negócios e Ética (GNE)](https://t.me/joinchat/AvwFpQtTraQcFjG9cnXY_A)
+- [Governança Corporativa em TI (GCTI)](https://t.me/joinchat/AvwFpRHa6v6nvD0TFiBMeA)
+- [Inteligência Computacional (IC)](https://t.me/joinchat/Chd0XUMeZXte7mOeonuNEA)
+- [IHC (Interação Humano-Computador)](https://t.me/joinchat/AvwFpVQuKJodFobcETEIVQ)
+- [LFAC (Linguagens Formais, Autômatos e Computabilidade)](https://t.me/joinchat/AvwFpQs0e8zA0JF2qd9A-A)
+- [Matemática Discreta (MD1/MD2)](https://t.me/joinchat/AvwFpRXgnrzjQBbBBd-dMA)
 - [Metodologia Científica](https://t.me/joinchat/AvwFpVHo69dLSqx8Bh5BAw)
-- Modelagem Computacional
+- [Modelagem Computacional](https://t.me/joinchat/AvwFpQqtUFAMxO-7XbvsZA)
 - [Monografia](https://t.me/joinchat/CibjPA2Yk3T7im9Ih1xY8g)
-- Programação Paralela
 - Programação Orientada a Objetos
-- Programação para Dispositivos Móveis
-- Programação para Jogos
-- Projeto de Software Orientado a Objetos
-- Projeto e Analise de Algoritmos
-- Redes de Computadores
-- Sistema de Informação e Aplicações
-- Sistemas Digitais
-- Sistemas Distribuídos
-- Sistemas em Tempo Real
-- Sistemas Operacionais
-- Teoria dos Números
-- Tópicos Especiais
+- [Programação para Dispositivos Móveis (PDM)](https://t.me/joinchat/AvwFpQrEkwOj1Ox223DYXw)
+- [Programação para Jogos](https://t.me/joinchat/AvwFpQ8GUKpIogRAnc84ng)
+- [Programação Paralela](https://t.me/joinchat/AvwFpQyMAEOz71Vvy3BS_Q)
+- [PSOO (Projeto de Software Orientado a Objetos)](https://t.me/joinchat/AvwFpQ492QDEhLVUHxiDXQ)
+- [Projeto em Automação](https://t.me/joinchat/GM7jHBK7Vd7LwRHMUqFaxA)
+- [Projeto e Análise de Algoritmos]( https://t.me/joinchat/AvwFpQvtn2jkgAb6JJQo_g)
+- [Redes de Computadores (I e II)](https://t.me/joinchat/AvwFpRR8Zp2hP72AGyodBg)
+- Sistemas de Informação e Aplicações
+- [Sistemas Digitais / Técnicas Digitais](https://t.me/joinchat/AvwFpVlKX-0p-zM10oaGEw)
+- [Sistemas Distribuídos](https://t.me/joinchat/AvwFpUv_XeRt0UAlgaLP8Q)
+- [Sistemas Embarcados](https://t.me/joinchat/GM7jHBBWYEmKjhNwp1_MJQ)
+- [Sistemas em Tempo Real (STR, RTOS)](https://t.me/joinchat/AvwFpU2GGx76aPOexKzKuA)
+- [Sistemas Operacionais](https://t.me/joinchat/AvwFpUH0jzdN2yVtZpXXBw)
+- [Teoria dos Números](https://t.me/joinchat/Chd0XQ2u0uIh0HiFnb11Mw)
+- [Teoria Geral dos Sistemas](https://t.me/joinchat/AvwFpUxx39wRNSMM5k7LnA)
+- [Tópicos Especiais em Compiladores](https://t.me/joinchat/AvwFpQwuw5Z4WLsz1pWcvQ)
+- [Tópicos Especiais em Criatividade e Inovação](https://t.me/joinchat/AvwFpUtMT4tEziDvhSZGEA)
 
 # CORPO DOCENTE
 
