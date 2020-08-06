@@ -19,6 +19,7 @@ Caso haja alguma informação a ser atualizada neste documento, por favor ofere�
 - [Google Drive](https://drive.google.com/drive/folders/0B5eVrMuAr6lbUzhya09SQ05fckU)
 - [Grupo Telegram](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ)
 - [Canal de Avisos](https://t.me/joinchat/AAAAAEMcDIAnDORJsLYYdA)
+- [Servidor Discord](https://discord.gg/48rGfJ)
 
 ## Chats
 
@@ -88,17 +89,18 @@ Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, o
 - **Ana Maria**: _ana.vianna@uva.br_
 - **André Lucio de Oliveira**: _andre.oliveira@uva.br_
 - **Alfredo Boente**: _professor@boente.eti.br_
-- **Camilla Lobo Paulino**: _profcamilla@uol.com.br_
+- **Camilla Lobo Paulino**: _camilla.paulino@uva.br_
 - **Carlos Alberto Alves Lemos**: _caalemos@gmail.com_
 - **Carlos Augusto Sicsú Ayres Nascimento**: _caugusto.sicsu@uva.br_
 - **Carlos Frederico Motta Vasconcelos**: _cfmotta_2001@yahoo.com_
-- **Claudio Jose Marques de Souza**: _cjms70@gmail.com_
+- **Claudio Jose Marques de Souza**: _cmarques@uva.com_
 - **Douglas Ericsson**: _ericsonmarc@gmail.com_
 - **Edgar Gurgel**: _edgar@uva.br_, _edgar@cos.ufrj.br_
 - **Elias Restum Antônio**: _elias.antonio@uva.br_, _eliasra@globo.com_
-- **Eliane Xavier Cavalcanti**: _eliane@cnen.gov.br_
+- **Márcio Alves Suzano**: _marcio.suzano@uva.br_
 - **Matheus Bandini**: _matheusbandini@gmail.com_
 - **Miguel Figueiredo**: _miguel.figueiredo@uva.br_, _miguel.azf@gmail.com_
+- **Nara Iwata**: _nara@uva.br_
 - **Roberto Luís Miranda Pereira de Castro**: _roberto.castro@uva.br_
 - **Rossandro Ramos**: _prof.rossandro@gmail.com_
 - **Thiago Gabriel**: _thiago.gabriel@uva.br_
@@ -216,11 +218,6 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Sistemas Distribuídos
 - Aplicações na área médica
 - Sistemas de gestão e visualização de imagens radiológicas
-
-### Eliane Xavier Cavalcanti
-
-- Banco de Dados
-- Data Mining e OLAP
 
 ### Fernando Hideo Fukuda
 
