@@ -15,7 +15,7 @@ Caso haja alguma informação a ser atualizada neste documento, por favor ofere�
 
 ## Principais
 
-- [Grupo Telegram](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) (link curto: http://bit.ly/chat-uvacc)
+- [Grupo Telegram](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) (link curto: [bit.ly/chat-uvacc](http://bit.ly/chat-uvacc))
 - [Canal de Avisos (Telegram)](https://t.me/joinchat/AAAAAEMcDIBXLBq__6BAsA)
 - [Grupo Facebook](https://www.facebook.com/groups/uva.comp/)
 - [Google Drive](https://drive.google.com/drive/folders/0B5eVrMuAr6lbUzhya09SQ05fckU)
@@ -33,7 +33,7 @@ Disciplinas que possuem I e II são condensadas em um mesmo grupo, pois seus con
 
 Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, onde o horário e professor são fatores inerentes a esta, então faça-o.
 
-Segue uma breve lista dos grupos existentes. Para a lista completa (e mais atualizada): **https://t.me/c/1219247788/21691** (Atenção: é necessário entrar no [Grupo Principal](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) para ver!).
+Segue uma breve lista dos grupos existentes. Para a lista completa (e mais atualizada): **[https://t.me/c/1219247788/21691](https://t.me/c/1219247788/21691)** (Atenção: é necessário entrar no [Grupo Principal](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) para ver!).
 
 - Álgebra Linear
 - Algoritmos e Programação
