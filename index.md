@@ -33,7 +33,7 @@ Disciplinas que possuem I e II são condensadas em um mesmo grupo, pois seus con
 
 Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, onde o horário e professor são fatores inerentes a esta, então faça-o.
 
-Segue uma breve lista dos grupos existentes. Para a lista completa (e mais atualizada): (Atenção: é necessário entrar no [Grupo Principal](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) para ver!).
+Segue uma breve lista dos grupos existentes. Para a lista completa (e mais atualizada): **https://t.me/c/1219247788/21691** (Atenção: é necessário entrar no [Grupo Principal](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) para ver!).
 
 - Álgebra Linear
 - Algoritmos e Programação
