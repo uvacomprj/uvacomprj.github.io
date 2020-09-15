@@ -15,11 +15,13 @@ Caso haja alguma informação a ser atualizada neste documento, por favor ofere�
 
 ## Principais
 
+- [Grupo Telegram](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) (link curto: http://bit.ly/chat-uvacc)
+- [Canal de Avisos (Telegram)](https://t.me/joinchat/AAAAAEMcDIBXLBq__6BAsA)
 - [Grupo Facebook](https://www.facebook.com/groups/uva.comp/)
 - [Google Drive](https://drive.google.com/drive/folders/0B5eVrMuAr6lbUzhya09SQ05fckU)
-- [Grupo Telegram](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ)
-- [Canal de Avisos](https://t.me/joinchat/AAAAAEMcDIAnDORJsLYYdA)
-- [Servidor Discord](https://discord.gg/48rGfJ)
+- [LinkedIn](https://www.linkedin.com/groups/8655283)
+- [Servidor Discord](https://discord.gg/ZHX5e42)
+- [Instagram](https://instagram.com/computacaoUVA)
 
 ## Chats
 
@@ -30,6 +32,8 @@ Isso evita que assuntos relacionados a matéria estejam sendo discutidos no grup
 Disciplinas que possuem I e II são condensadas em um mesmo grupo, pois seus conteúdos são complementares. Além disso, devido Tópicos Especiais surgirem e desaparecerem com mais frequência que disciplinas não eletivas, há um grupo específico para eles.
 
 Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, onde o horário e professor são fatores inerentes a esta, então faça-o.
+
+Segue uma breve lista dos grupos existentes. Para a lista completa (e mais atualizada): (Atenção: é necessário entrar no [Grupo Principal](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) para ver!).
 
 - Álgebra Linear
 - Algoritmos e Programação
@@ -93,7 +97,6 @@ Caso ainda sinta necessidade de criar um grupo especificamente para sua turma, o
 - **Carlos Alberto Alves Lemos**: _caalemos@gmail.com_
 - **Carlos Augusto Sicsú Ayres Nascimento**: _caugusto.sicsu@uva.br_
 - **Carlos Frederico Motta Vasconcelos**: _cfmotta_2001@yahoo.com_
-- **Claudio Jose Marques de Souza**: _cmarques@uva.com_
 - **Douglas Ericsson**: _ericsonmarc@gmail.com_
 - **Edgar Gurgel**: _edgar@uva.br_, _edgar@cos.ufrj.br_
 - **Elias Restum Antônio**: _elias.antonio@uva.br_, _eliasra@globo.com_
@@ -116,7 +119,9 @@ Para realizar o Trabalho de Conclusão de Curso (TCC), ou simplesmente monografi
 
 As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-se abaixo:
 
+
 ### Adriana Aparício Sicsú Ayres do Nascimento
+##### _adriana.nascimento@uva.br_
 
 - Análise de Sistemas
 - Engenharia de Software
@@ -124,7 +129,18 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Banco de Dados
 - Desenvolvimento de Sistemas (Web, Mobile, Desktop)
 
-### Alfredo Boente
+
+### Ana Maria dos Santos Vianna
+##### _ana.vianna@uva.br_
+
+- Estatística
+- Pesquisa Operacional
+- Jogos Educacionais
+- Educação a Distância
+
+
+### Alfredo Nazareno Pereira Boente
+##### _alfredo.boente@uva.br_
 
 - Descoberta de Conhecimento em Base de Dados (KDD)
 - Inteligência Computacional
@@ -134,43 +150,52 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Gerenciamento de Projetos (PMBOK)
 - Complexidade de Algoritmos
 
-### André Lucio de Oliveira
 
-- Metodologias ágeis para desenvolvimento de sistemas
+### André Lucio de Oliveira
+##### _andre.oliveira@uva.br_
+
+- Desenvolvimento Web
+- Engenharia de Software
 - Engenharia de Requisitos
-- Testes Automatizados
+- Testes automatizados
+- Metodologias ágeis para desenvolvimento de sistemas
 - Análise de Risco
 - Sistemas Operacionais
 - Qualidade de Software
 - Aplicações para Dispositivos Móveis (Android)
 - Banco de Dados
-- Desenvolvimento Web
+
 
 ### Camilla Lobo Paulino
+##### _camilla.paulino@uva.br_
 
-- Análise e desenvolvimento de sistemas
-- Gerencia de projetos (Guia PM Book)
+- Análise e Desenvolvimento de Sistemas
+- Gerência de Projetos (Guia PM Book)
 - Mapeamento de Processos
 - Automatização de Fluxos de Processo
 - Framework COBIT
 - ITIL
 - Business Analysis Body of Knowledge (BABOK)
 - Metodologias Ágeis
-- Framework Scrum
+- Framework SCRUM
 - Tecnologias de RFID
-- Tecnologia da Informação X Sustentabilidade
+- Tecnologia da Informação x Sustentabilidade
 - Engenharia Reversa
 - ERP, CRM, Business Intelligence (BI)
 
+
 ### Carlos Alberto Alves Lemos
+##### _carlos.lemos@uva.br_
 
 - Desenvolvimento WEB (2 Projetos de Desenvolvimento de Aplicativos para Fonoaudiologia)
-- Redes de Computadores (Criptografia / Segurança de Redes / Forense Digital)
+- Redes de Computadores (Criptografia, Segurança de Redes, Forense Digital)
 - Sistemas Embarcados (LINUX para Sistemas Embarcados)
 - Microcontroladores (MPLAB e Arduino)
 - Microeletrônica (VHDL, FPGA)
 
+
 ### Carlos Augusto Sicsú Ayres Nascimento
+##### _caugusto.sicsu@uva.br_
 
 - Inteligência Computacional
 - Gerência de Projetos
@@ -179,13 +204,20 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Banco de Dados
 - Desenvolvimento de Sistemas (Web, Mobile, Desktop)
 
-### Carlos Frederico Mota Vasconcelos
 
+### Carlos Frederico Motta Vasconcelos
+##### _carlos.vasconcelos@uva.br_
+
+- Sistemas de Informação
+- Mobile Apps (Java, Android)
+- Medicina
 - Computação Gráfica
+- Eletrônica
 - Processamento de sinais (som, imagem, vídeo)
 - Interfaces Humano Computador
 - Multimídia
 - Telecomunicações
+
 
 ### Claudio Jose Marques de Souza
 
@@ -193,62 +225,61 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Análise e Projeto de Sistemas
 - Gestão de TI
 
-### Douglas Ericsson
+
+### Douglas Ericson Marcelino de Oliveira
+##### _douglas.oliveira@uva.br_
 
 - Sistemas Operacionais
 - Programação
 - Sistemas paralelos e distribuídos
 
-### Edgar Gurgel
+
+### Edgar Augusto Gonçalves Gurgel do Amaral
+##### _edgar@uva.br_
 
 - Engenharia de Software
+- Biologia Computacional
+- Ciência de Dados
 - Qualidade de Software
 - Processos de Desenvolvimento de Software
-- Biologia Computacional
 - Data Mining
 - Computação em Nuvem
 - Big Data
 
-### Elias Restum Antônio
 
-- Redes de Computadores
-- Segurança em Redes
-- Sistemas Operacionais
-- Virtualização
-- Sistemas Distribuídos
-- Aplicações na área médica
-- Sistemas de gestão e visualização de imagens radiológicas
+### Elias Restum Antônio
+##### _elias.antonio@uva.br_
+
+- Redes de Computadores;
+- Segurança em Redes;
+- Sistemas Operacionais;
+- Virtualização;
+- Sistemas Distribuídos;
+- Aplicações na área médica:
+- Sistemas de gestão e visualização de imagens radiológicas.
+
 
 ### Fernando Hideo Fukuda
+##### _fernando.fukuda@uva.br_
 
 - Engenharia de Computação
-- Engenharia de Software
-- Engenharia Elétrica
-- Engenharia Eletrônica
+- Engenharia Sistemas Eletrônicos
 - Ciência da Computação
-- Sistemas de Computação (Julia, Java, C/C++, SQL)
-- Web Apps (Julia, Python, SQL)
-- Mobile Apps (Reactive Native, Cordoba, PhoneGap, SQL)
-- Big Data Analytics (Julia, Python, R, SQL)
-- Inteligência Artificial (Julia, Python)
-- Redes Neurais Artificiais (Julia, Python)
-- Deep Learning (Julia, Python)
-- Machine Learning (Julia, Python)
-- Cognitive Computing (Julia)
-- GPU Computing (Julia, CUDA)
-- Data Mining
-- Text Mining
-- BI (Julia, Python, R, SQL)
-- Gestão da Saúde
-- Gestão de Doenças Crônicas
-- Diagnóstico de Falhas
-- Decision Support Systems (DSS)
-- Eficiência Energética
-- Learning Analytics
-- Adaptative Education
-- IoT
+- Stock Market Data Analytics, Data Science (R, Python)
+- Data Analytics, Data Mining (R, Python)
+- Text Analytics, Text Mining (R, Python)
+- Learning Analytics (R, Python)
+- Sistemas de Computação, Web Apps (Angular, Typescript, Firebase)
+- Mobile Apps (Ionic, Capacitor, Firebase)
+- Inteligência Artificial (R, Python)
+- Deep Learning (R, Python)
+- Machine Learning (R, Python)
+- Natural Language Processing - NLP (R, Python)
+- IoT, Industry Internet of Thing (IIoT), Indústria 4.0
+
 
 ### Marcelo Nascimento Costa
+##### _marcelo.nascimento@uva.br_
 
 - Metodologias de desenvolvimento (análise, modelagem & projeto) e garantia da qualidade (testes & inspeções)
 - Modelos de maturidade de processos de software
@@ -266,16 +297,21 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Integração Contínua
 - Arquitetura .Net
 
+
 ### Matheus Bousquet Bandini
+##### _matheus.bandini@uva.br_
 
 - Programação e ambientes paralelos
 - Sistemas distribuídos e aplicações
 - Bancos de dados distribuídos para aplicações de alto desempenho
 - Mineração de dados
 
-### Miguel Ângelo Zaccur de Figueiredo
 
-- Todas (com excessão de metodologias de Análise de Sistemas e Gerência de Projetos)
+### Miguel Ângelo Zaccur de Figueiredo
+##### _miguel.figueiredo@uva.br_
+
+- Todas exceto: Metodologias de Análise de Sistemas e Gerência de Projetos
+
 
 ### Roberto Luis Miranda Pereira Castro
 
@@ -283,26 +319,34 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Fundamentos de Sistemas de Informação
 - Algoritmos e Programação
 
+
 ### Rossandro Ramos
 
 - Estratégia de Inovação
 - Modelos de Negócios
 
+
 ### Thiago Alberto Ramos Gabriel
+##### _thiago.gabriel@uva.br_
 
 - Automação Industrial, Predial e Residencial
+- IoT
+- Smart City
+- Tecnologia Assistiva
+- Machine Learning
+- AI
+- Visão Computacional
 - Robótica
 - Sistemas Embarcados
-- Machine Learning
-- Visão Computacional
 - Otimização
 - Eficiência energética
-- IoT
 
-### Vincenzo
+
+### Vincenzo De Roberto Junior 
+##### _vincenzo.junior@uva.br_
 
 - Banco de Dados
 - Programação
 - Redes de Computadores
 - Bioinformática (genoma e proteoma)
-- Computação gráfica em medicina
+- Computação Gráfica em Medicina
