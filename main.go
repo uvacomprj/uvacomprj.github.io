@@ -4,13 +4,18 @@ import (
 	"log"
 	"os"
 
+	"uva-bot/commands"
+	"uva-bot/utils"
+
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 )
 
 func main() {
+	commands.Init()
+
 	token := os.Getenv("TOKEN")
 	bot, err := tgbotapi.NewBotAPI(token)
-	CheckError(err)
+	utils.CheckError(err)
 
 	bot.Debug = true
 
@@ -27,27 +32,23 @@ func main() {
 		}
 
 		log.Printf("[%s] %s", update.Message.From.UserName, update.Message.Text)
-
+		
 		if update.Message.IsCommand() {
-			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "")
-			msg.ParseMode = "html"
-			switch update.Message.Command() {
-			case "readme":
-				msg.Text = ReadTextFile("./Messages/readme.html")
-
-			case "emails":
-				msg.Text = ReadTextFile("./Messages/emails.html")
-
-			case "grupos":
-				msg.Text = ReadTextFile("./Messages/groups.html")
-
-			default:
-				msg.Text = ""
-			}
-			if len(msg.Text) > 0 {
-				bot.Send(msg)
+			// Para adicionar novos comandos, crie um novo arquivo contendo uma implementação da
+			// interface CommandHandler, no pacote "commands". Em seguida, cadastre um factory
+			// method para o comando criado no método "commands.Init" (arquivo "commands/commands.go")
+			command, err := commands.NewCommandHandler(bot, update.Message)
+			
+			if err != nil {
+				log.Printf("[%s] %s", update.Message.From.UserName, err.Error())
+			} else {
+				log.Printf("[%s] Executing %s", update.Message.From.UserName, command.Name())
+				execErr := command.Execute()
+				
+				if execErr != nil {
+					log.Println(execErr)
+				}
 			}
 		}
-
 	}
 }
