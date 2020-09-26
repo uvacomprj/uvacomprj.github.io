@@ -16,7 +16,7 @@ func (cmd *emails) Name() string {
 }
 
 func (cmd *emails) Execute() (error) {
-	return utils.SendMessageFromFile(cmd.bot, cmd.message, "readme.html")
+	return utils.SendMessageFromFile(cmd.bot, cmd.message, "emails.html")
 }
 
 func newEmailsFactory(name string) (commandHandlerFactory) {
