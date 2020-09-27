@@ -55,6 +55,10 @@ func (c *Curso) GetOriginal() *Curso {
 	return c
 }
 
+func (c *Curso) IsAlias() bool {
+	return c.Original != nil
+}
+
 func GetCursoRepository() *CursoRepository {
 	if cursoRepository == nil {
 		tagRepository := GetTagRepository()
@@ -145,6 +149,10 @@ func GetCursoRepository() *CursoRepository {
 	}
 
 	return cursoRepository
+}
+
+func (r *CursoRepository) FindAll() ([]*Curso, error) {
+	return r.Entities, nil
 }
 
 func (r *CursoRepository) FindByFnid(fnid string) (*Curso, error) {

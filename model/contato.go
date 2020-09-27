@@ -163,6 +163,10 @@ func GetContatoRepository() *ContatoRepository {
 	return contatoRepository
 }
 
+func (r *ContatoRepository) FindAll() ([]*Contato, error) {
+	return r.Entities, nil
+}
+
 func (r *ContatoRepository) FindByFnid(fnid string) (*Contato, error) {
 	entity, ok := r.fnidIndex[fnid]
 	if !ok {

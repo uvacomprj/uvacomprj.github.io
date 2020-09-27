@@ -39,6 +39,10 @@ func (c *Tag) GetOriginal() *Tag {
 	return c
 }
 
+func (c *Tag) IsAlias() bool {
+	return c.Original != nil
+}
+
 func GetTagRepository() *TagRepository {
 	if tagRepository == nil {
 		filename := "data/tags.json"
@@ -94,6 +98,10 @@ func GetTagRepository() *TagRepository {
 	}
 
 	return tagRepository
+}
+
+func (r *TagRepository) FindAll() ([]*Tag, error) {
+	return r.Entities, nil
 }
 
 func (r *TagRepository) FindByFnid(fnid string) (*Tag, error) {

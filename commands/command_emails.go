@@ -1,6 +1,7 @@
 package commands
 
 import (
+	"log"
 	"strings"
 
 	"uva-bot/model"
@@ -10,8 +11,8 @@ import (
 )
 
 type emailsData struct {
-	Docentes  []*model.Contato
-	Discentes []*model.Contato
+	Docentes []*model.Contato
+	Cursos   []*model.Curso
 }
 
 type emails struct {
@@ -26,6 +27,7 @@ func (cmd *emails) Name() string {
 
 func (cmd *emails) Execute() error {
 	contatoRepository := model.GetContatoRepository()
+	cursoRepository := model.GetCursoRepository()
 
 	docentes, err := contatoRepository.FindByPredicateFn(func(contato *model.Contato) (bool, error) {
 		return !contato.IsAlias() && contato.Tipo == "docente", nil
@@ -34,16 +36,20 @@ func (cmd *emails) Execute() error {
 		return err
 	}
 
-	discentes, err := contatoRepository.FindByPredicateFn(func(contato *model.Contato) (bool, error) {
-		return !contato.IsAlias() && contato.Tipo == "discente", nil
+	cursos, err := cursoRepository.FindByPredicateFn(func(curso *model.Curso) (bool, error) {
+		return !curso.IsAlias(), nil
 	})
 	if err != nil {
 		return err
 	}
 
+	for _, curso := range cursos {
+		log.Println("Curso: ", curso)
+	}
+
 	data := emailsData{
-		Docentes:  docentes,
-		Discentes: discentes,
+		Docentes: docentes,
+		Cursos:   cursos,
 	}
 
 	template, err := utils.LoadHtmlTemplate("emails")
