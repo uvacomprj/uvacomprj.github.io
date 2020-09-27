@@ -1,0 +1,191 @@
+[
+    {   "fnid": "flavio lisboa",
+        "tipo": "discente",
+        "nome": "Flávio Lisbôa",
+        "meiosContato": [
+            { "tipo": "email", "valor": "representante.uva.cdc@hotmail.com", "tags": [ "Principal" ] },
+            { "tipo": "telegram", "valor": "@flisboac", "tags": [ "Principal" ] },
+            { "tipo": "linkedin", "valor": "https://linkedin.com/in/flisboacosta", "tags": [ "Principal" ] }
+        ],
+        "tags": [
+            "Representante Discente",
+            "Ciência da Computação"
+        ]
+    },
+    {   "fnid": "samara trindade",
+        "tipo": "discente",
+        "nome": "Samara Trindade",
+        "meiosContato": [
+            { "tipo": "telegram", "valor": "@SamaraTrindade", "tags": [ "Principal" ] }
+        ],
+        "tags": [
+            "Representante Discente",
+            "Sistemas de Informação"
+        ]
+    },
+    {   "fnid": "fernando hideo fukuda",
+        "tipo": "docente",
+        "nome": "Fernando Hideo Fukuda",
+        "meiosContato": [
+            { "tipo": "email", "valor": "fernando.fukuda@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ],
+        "tags": [
+            "Coordenador de Curso",
+            "Ciência da Computação",
+            "Engenharia da Computação"
+        ]
+    },
+    {   "fnid": "claudio fico",
+        "tipo": "docente",
+        "nome": "Cláudio Fico",
+        "meiosContato": [
+            { "tipo": "email", "valor": "claudio.fico@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ],
+        "tags": [
+            "Coordenador de Curso",
+            "Sistemas de Informação"
+        ]
+    },
+    {   "fnid": "adriana aparicio sicsu ayres do nascimento",
+        "nome": "Adriana Aparício Sicsú Ayres do Nascimento",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "adriana.nascimento@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "ana maria dos santos vianna",
+        "nome": "Ana Maria dos Santos Vianna",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "ana.vianna@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "alfredo nazareno pereira boente",
+        "nome": "Alfredo Nazareno Pereira Boente",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "alfredo.boente@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "professor@boente.eti.br", "tags": [ "Externo" ] }
+        ]
+    },
+    {   "fnid": "andre lucio de oliveira",
+        "nome": "André Lucio de Oliveira",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "andre.oliveira@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "camilla lobo paulino",
+        "nome": "Camilla Lobo Paulino",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "camilla.paulino@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "carlos alberto alves lemos",
+        "nome": "Carlos Alberto Alves Lemos",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "carlos.lemos@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "caalemos@gmail.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "carlos augusto sicsu ayres nascimento",
+        "nome": "Carlos Augusto Sicsú Ayres Nascimento",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "caugusto.sicsu@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "carlos frederico motta vasconcelos",
+        "nome": "Carlos Frederico Motta Vasconcelos",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "carlos.vasconcelos@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "cfmotta_2001@yahoo.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "claudio jose marques de souza",
+        "nome": "Claudio Jose Marques de Souza",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "cjms70@gmail.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "douglas ericson marcelino de oliveira",
+        "nome": "Douglas Ericson Marcelino de Oliveira",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "douglas.oliveira@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "ericsonmarc@gmail.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "edgar augusto goncalves gurgel do amaral",
+        "nome": "Edgar Augusto Gonçalves Gurgel do Amaral",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "edgar@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "edgar@cos.ufrj.br", "tags": [ "Externo" ] }
+        ]
+    },
+    {   "fnid": "elias restum antonio",
+        "nome": "Elias Restum Antônio",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "elias.antonio@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "eliasra@globo.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "marcelo nascimento costa",
+        "nome": "Marcelo Nascimento Costa",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "marcelo.nascimento@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "matheus bousquet bandini",
+        "nome": "Matheus Bousquet Bandini",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "matheus.bandini@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "matheusbandini@gmail.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "miguel angelo zaccur de figueiredo",
+        "nome": "Miguel Ângelo Zaccur de Figueiredo",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "miguel.figueiredo@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "miguel.azf@gmail.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "roberto luis miranda pereira castro",
+        "nome": "Roberto Luis Miranda Pereira Castro",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "roberto.castro@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "rossandro ramos",
+        "nome": "Rossandro Ramos",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "prof.rossandro@gmail.com", "tags": [ "Pessoal" ] }
+        ]
+    },
+    {   "fnid": "thiago alberto ramos gabriel",
+        "nome": "Thiago Alberto Ramos Gabriel",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "thiago.gabriel@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
+    {   "fnid": "vincenzo de roberto junior",
+        "nome": "Vincenzo de Roberto Junior",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "vincenzo.junior@uva.br", "tags": [ "Principal", "Institucional" ] },
+            { "tipo": "email", "valor": "vdroberto@gmail.com", "tags": [ "Pessoal" ] }
+        ]
+    }
+]

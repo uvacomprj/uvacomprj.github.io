@@ -1,0 +1,33 @@
+[
+    {   "fnid": "cdc", "nome": "CdC", "fnidReal": "ciencia da computacao" },
+    {   "fnid": "cc", "nome": "CC", "fnidReal": "ciencia da computacao" },
+    {   "fnid": "ciencias", "nome": "Ciências", "fnidReal": "ciencia da computacao" },
+    {   "fnid": "ciencias da computacao", "nome": "Ciências da Computação", "fnidReal": "ciencia da computacao" },
+    {   "fnid": "ciencia da computacao",
+        "nome": "Ciência da Computação",
+        "coordenador": "fernando hideo fukuda",
+        "representante": "flavio lisboa",
+        "urls": [
+            { "tipo": "site", "valor": "https://www.uva.br/content/ciencias-da-computacao" }
+        ]
+    },
+    {   "fnid": "ec", "nome": "EC", "fnidReal": "engenharia da computacao" },
+    {   "fnid": "ecp", "nome": "ECP", "fnidReal": "engenharia da computacao" },
+    {   "fnid": "engenharia da computacao",
+        "nome": "Engenharia da Computação",
+        "coordenador": "fernando hideo fukuda",
+        "representante": null,
+        "urls": [
+            { "tipo": "site", "valor": "https://www.uva.br/content/engenharia-da-computacao" }
+        ]
+    },
+    {   "fnid": "si", "nome": "SI", "fnidReal": "sistemas de informacao" },
+    {   "fnid": "sistemas de informacao",
+        "nome": "Sistemas de Informação",
+        "coordenador": "claudio fico",
+        "representante": "samara trindade",
+        "urls": [
+            { "tipo": "site", "valor": "https://www.uva.br/content/sistemas-de-informacao" }
+        ]
+    }
+]

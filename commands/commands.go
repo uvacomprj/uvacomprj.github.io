@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"errors"
 	"fmt"
+
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 )
 
@@ -18,7 +18,7 @@ func NewCommandHandler(bot *tgbotapi.BotAPI, message *tgbotapi.Message) (Command
 	commandName := message.Command()
 	factory, ok := factoryFunctions[commandName]
 	if !ok {
-		return nil, errors.New(fmt.Sprintf("Command name \"%s\" is invalid, or command was not implemented yet.", commandName))
+		return nil, fmt.Errorf("Command name \"%s\" is invalid, or command was not implemented yet.", commandName)
 	}
-	return factory(bot, message);
+	return factory(bot, message)
 }

@@ -1,20 +1,8 @@
-<strong>Adriana Aparício Sicsú Ayres do Nascimento</strong> adriana.nascimento@uva.br
-<strong>Ana Maria</strong> ana.vianna@uva.br
-<strong>André Lucio de Oliveira</strong> andre.oliveira@uva.br
-<strong>Alfredo Boente</strong> professor@boente.eti.br
-<strong>Camilla Lobo Paulino</strong> camilla.paulino@uva.br
-<strong>Carlos Alberto Alves Lemos</strong> caalemos@gmail.com
-<strong>Carlos Augusto Sicsú Ayres Nascimento</strong> caugusto.sicsu@uva.br
-<strong>Carlos Frederico Motta Vasconcelos</strong> cfmotta_2001@yahoo.com
-<strong>Claudio Jose Marques de Souza</strong> cjms70@gmail.com
-<strong>Douglas Ericsson</strong> ericsonmarc@gmail.com
-<strong>Edgar Gurgel</strong> edgar@uva.br edgar@cos.ufrj.br
-<strong>Elias Restum Antônio</strong> eliasra@globo.com
-<strong>Eliane Xavier Cavalcanti</strong> eliane@cnen.gov.br
-<strong>Jobson Luiz</strong> jobson.silva@uva.br
-<strong>Matheus Bandini</strong> matheusbandini@gmail.com
-<strong>Miguel Figueiredo</strong> miguel.figueiredo@uva.br miguel.azf@gmail.com
-<strong>Roberto Luís Miranda Pereira de Castro</strong> roberto.castro@uva.br
-<strong>Rossandro Ramos</strong> prof.rossandro@gmail.com
-<strong>Thiago Gabriel</strong> thiago.gabriel@uva.br
-<strong>Vincenzo</strong> vdroberto@gmail.com
+<strong>DISCENTES</strong>
+
+{{ range .Discentes }}&#8226; <strong>{{.Nome}}:</strong> {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{else}}<em>(sem emails)</em>{{end}}
+{{ else }}<em>Nenhum discente cadastrado.</em>{{ end }}
+<strong>DOCENTES</strong>
+
+{{ range .Docentes }}&#8226; <strong>{{.Nome}}:</strong> {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}
+{{ else }}<em>Nenhum discente cadastrado.</em>{{ end }}
