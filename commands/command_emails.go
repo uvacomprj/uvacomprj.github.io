@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"log"
+	"sort"
 	"strings"
 
 	"uva-bot/model"
@@ -36,15 +36,15 @@ func (cmd *emails) Execute() error {
 		return err
 	}
 
+	sort.Slice(docentes[:], func(i, j int) bool {
+		return (*docentes[i].Nome) < (*docentes[j].Nome)
+	})
+
 	cursos, err := cursoRepository.FindByPredicateFn(func(curso *model.Curso) (bool, error) {
 		return !curso.IsAlias(), nil
 	})
 	if err != nil {
 		return err
-	}
-
-	for _, curso := range cursos {
-		log.Println("Curso: ", curso)
 	}
 
 	data := emailsData{
