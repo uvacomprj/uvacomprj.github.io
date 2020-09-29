@@ -26,8 +26,18 @@ func (cmd *emails) Name() string {
 }
 
 func (cmd *emails) Execute() error {
+	query := strings.TrimSpace(cmd.message.CommandArguments())
 	contatoRepository := model.GetContatoRepository()
 	cursoRepository := model.GetCursoRepository()
+
+	if len(query) > 0 {
+		factory := factoryFunctions["email"]
+		handler, err := factory(cmd.bot, cmd.message)
+		if err != nil {
+			return err
+		}
+		return handler.Execute()
+	}
 
 	docentes, err := contatoRepository.FindByPredicateFn(func(contato *model.Contato) (bool, error) {
 		return !contato.IsAlias() && contato.Tipo == "docente", nil

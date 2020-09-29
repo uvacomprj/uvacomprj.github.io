@@ -1,0 +1,16 @@
+{{ if gt (len .MensagemErro) 0 }}
+{{.MensagemErro}}
+{{ else }}
+{{ if eq (len .Contatos) 0 }}
+Não encontrei nenhum contato com nome contendo{{ if gt (len .ContatosFuzzy) 0 }} <strong>exatamente</strong>{{end}} <em>"{{ .Query }}"</em>.
+
+{{ if gt (len .ContatosFuzzy) 0 }}Mas encontrei <strong>{{ len .ContatosFuzzy }}</strong> contato(s) contendo o nome <em>"{{ .Query }}"</em> em modo de busca <em>fuzzy</em>:
+{{ range .ContatosFuzzy }}
+&#8226; <em><strong>{{.Nome}}</strong></em> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}{{ end }}
+{{ end }}
+{{ else }}
+Encontrei <strong>{{ len .Contatos }}</strong> contato(s) com nome contendo <em>"{{ .Query }}"</em>:
+
+{{ range .Contatos }}&#8226; <em><strong>{{.Nome}}</strong></em> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}
+{{ end }}{{ end }}
+{{end}}

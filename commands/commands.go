@@ -12,6 +12,7 @@ func Init() {
 	factoryFunctions["emails"] = newEmailsFactory("emails")
 	factoryFunctions["grupos"] = newGruposFactory("grupos")
 	factoryFunctions["readme"] = newReadmeFactory("readme")
+	factoryFunctions["email"] = newEmailFactory("email")
 }
 
 func NewCommandHandler(bot *tgbotapi.BotAPI, message *tgbotapi.Message) (CommandHandler, error) {
