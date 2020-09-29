@@ -18,7 +18,6 @@ Caso haja alguma informação a ser atualizada neste documento, por favor ofere�
 - [Grupo Telegram](https://t.me/joinchat/AAAAAAFbymk5sehzcoiOFQ) (link curto: [bit.ly/chat-uvacc](http://bit.ly/chat-uvacc))
 - [Canal de Avisos (Telegram)](https://t.me/joinchat/AAAAAEMcDIBXLBq__6BAsA)
 - [Grupo Facebook](https://www.facebook.com/groups/uva.comp/)
-- [Google Drive](https://drive.google.com/drive/folders/0B5eVrMuAr6lbUzhya09SQ05fckU)
 - [LinkedIn](https://www.linkedin.com/groups/8655283)
 - [Servidor Discord](https://discord.gg/ZHX5e42)
 - [Instagram](https://instagram.com/computacaoUVA)
@@ -84,30 +83,6 @@ Segue uma breve lista dos grupos existentes. Para a lista completa (e mais atual
 - [Teoria Geral dos Sistemas](https://t.me/joinchat/AvwFpUxx39wRNSMM5k7LnA)
 - [Tópicos Especiais em Compiladores](https://t.me/joinchat/AvwFpQwuw5Z4WLsz1pWcvQ)
 - [Tópicos Especiais em Criatividade e Inovação](https://t.me/joinchat/AvwFpUtMT4tEziDvhSZGEA)
-
-# CORPO DOCENTE
-
-## E-mails
-
-- **Adriana Aparício Sicsú Ayres do Nascimento**: _adriana.nascimento@uva.br_
-- **Ana Maria**: _ana.vianna@uva.br_
-- **André Lucio de Oliveira**: _andre.oliveira@uva.br_
-- **Alfredo Boente**: _professor@boente.eti.br_
-- **Camilla Lobo Paulino**: _camilla.paulino@uva.br_
-- **Carlos Alberto Alves Lemos**: _caalemos@gmail.com_
-- **Carlos Augusto Sicsú Ayres Nascimento**: _caugusto.sicsu@uva.br_
-- **Carlos Frederico Motta Vasconcelos**: _cfmotta_2001@yahoo.com_
-- **Douglas Ericsson**: _ericsonmarc@gmail.com_
-- **Edgar Gurgel**: _edgar@uva.br_, _edgar@cos.ufrj.br_
-- **Elias Restum Antônio**: _elias.antonio@uva.br_, _eliasra@globo.com_
-- **Márcio Alves Suzano**: _marcio.suzano@uva.br_
-- **Matheus Bandini**: _matheusbandini@gmail.com_
-- **Miguel Figueiredo**: _miguel.figueiredo@uva.br_, _miguel.azf@gmail.com_
-- **Nara Iwata**: _nara@uva.br_
-- **Roberto Luís Miranda Pereira de Castro**: _roberto.castro@uva.br_
-- **Rossandro Ramos**: _prof.rossandro@gmail.com_
-- **Thiago Gabriel**: _thiago.gabriel@uva.br_
-- **Vincenzo**: _vdroberto@gmail.com_
 
 ## Coordenador
 
