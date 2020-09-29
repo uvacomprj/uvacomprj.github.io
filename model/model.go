@@ -39,4 +39,5 @@ func Init() {
 	GetTagRepository()
 	GetContatoRepository()
 	GetCursoRepository()
+	GetTemaRepository()
 }

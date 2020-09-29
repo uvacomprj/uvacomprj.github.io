@@ -2,6 +2,7 @@ package utils
 
 import (
 	"io/ioutil"
+	"path"
 	"path/filepath"
 	"strings"
 	"unicode"
@@ -52,7 +53,18 @@ func SendHtmlMessage(
 }
 
 func LoadHtmlTemplate(filename string) (*html.Template, error) {
-	template, err := html.ParseFiles(templatesFolderPrefix + filename + ".html")
+	pathname, err := filepath.Abs(path.Join(templatesFolderPrefix, filename+".html"))
+	if err != nil {
+		return nil, err
+	}
+	template, err := html.New(filename + ".html").Funcs(html.FuncMap{
+		"minus": func(a, b int) int {
+			return a - b
+		},
+		"plus": func(a, b int) int {
+			return a + b
+		},
+	}).ParseFiles(pathname)
 	if err != nil {
 		return nil, err
 	}

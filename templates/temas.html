@@ -1,0 +1,18 @@
+{{ if gt (len .TemasFilhos ) 0 }}<b>TEMAS E LINHAS DE PESQUISA</b>
+
+<i>Para informações detalhadas do tema, execute o comando /tema@CompUvaBot seguido do nome.</i>
+
+&#187; <b>{{.TemaPai.Nome}}</b>
+{{ range .TemasFilhos }}&#8226; {{.Nome}}
+{{ end }}
+{{ else }}{{ if gt (len .TemasRaiz) 0 }}<b>TEMAS E LINHAS DE PESQUISA</b>
+
+<i>A quantidade de subtemas está denotada entre parênteses, antes do nome. Para ver os subtemas, execute o comando /temas@CompUvaBot seguido do nome do tema.</i>
+
+<i>Para informações detalhadas do tema, execute o comando /tema@CompUvaBot seguido do nome.</i>
+
+<b>{{ (len .TemasRaiz ) }}</b> temas-raíz foram encontrados:
+
+{{ $root := . }}{{ range $i, $e := .TemasRaiz }}&#187; {{ plus $i 1 }}. ({{ index ($root.ContagemTemasFilhos) ($e.Fnid)}}) <b>{{.Nome}}</b>
+{{ end }}{{ else }}Não há nenhum tema ou linha de pesquisa cadastrada.
+{{end}}{{end}}

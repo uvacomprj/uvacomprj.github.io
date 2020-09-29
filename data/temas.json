@@ -1,0 +1,932 @@
+[
+	{
+		"nome": "Análise de Dados",
+		"pai": null,
+        "descricao": "Análises de dados é a atividade de transformar um conjunto de dados, com o objetivo de poder verificá-los melhor dando-lhes ao mesmo tempo uma razão de ser e uma análise racional. É analisar os dados de um problema e identificá-los. A análise de dados possui diferentes facetas e abordagens, incorporando diversas técnicas . Tem grande importância em áreas como: ciências, estudos sociais e negócios, por conta da diversidade de modelos possíveis.",
+        "url": "https://pt.wikipedia.org/wiki/An%C3%A1lise_de_dados"
+	},
+	{
+		"nome": "Ciência de Dados (Data Science)",
+		"pai": "Análise de Dados",
+        "descricao": "Ciência de dados (em inglês: data science) é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros e sociais, estruturados e não-estruturados, que visa a extração de conhecimento, detecção de padrões e/ou obtenção de variáveis para possíveis tomadas de decisão.",
+        "url": "https://pt.wikipedia.org/wiki/Ci%C3%AAncia_de_dados"
+	},
+	{
+		"nome": "Armazém de dados (Data Warehouse)",
+		"pai": "Análise de Dados",
+		"descricao": "Armazém de dados, ou ainda depósito de dados, é utilizado para armazenar informações relativas às atividades de uma organização em bancos de dados, de forma consolidada. O desenho da base de dados favorece os relatórios, a análise de grandes volumes de dados e a obtenção de informações estratégicas que podem facilitar a tomada de decisão. O data warehouse possibilita a análise de grandes volumes de dados, coletados dos sistemas transacionais (OLTP). São as chamadas séries históricas que possibilitam uma melhor análise de eventos passados, oferecendo suporte às tomadas de decisões presentes e a previsão de eventos futuros. Por definição, os dados em um data warehouse não são voláteis, ou seja, eles não mudam, salvo quando é necessário fazer correções de dados previamente carregados. Os dados estão disponíveis somente para leitura e não podem ser alterados. A ferramenta mais popular para exploração de um data warehouse é a Online Analytical Processing OLAP ou Processo Analítico em Tempo Real, mas muitas outras podem ser usadas.",
+		"url": "https://pt.wikipedia.org/wiki/Armaz%C3%A9m_de_dados"
+	},
+	{
+		"nome": "Extração de Conhecimento em Base de Dados (KDD)",
+		"pai": "Análise de Dados",
+		"descricao": "Extração de conhecimento (também conhecido como processo KDD, do inglês knowledge-discovery in databases) é um processo de extração de informações de base de dados, que cria relações de interesse que não são observadas pelo especialista no assunto, bem como auxilia a validação de conhecimento extraído.",
+		"url": "https://pt.wikipedia.org/wiki/Extra%C3%A7%C3%A3o_de_conhecimento"
+	},
+	{
+		"nome": "Inteligência de Negócios (Business Intelligence) (BI)",
+		"pai": "Análise de Dados",
+		"descricao": "Inteligência de negócios (ou Business Intelligence, em inglês) refere-se ao processo de coleta, organização, análise, compartilhamento e monitoramento de informações que oferecem suporte a gestão de negócios. É um conjunto de técnicas e ferramentas para auxiliar na transformação de dados brutos em informações significativas e úteis a fim de analisar o negócio. As tecnologias BI são capazes de suportar uma grande quantidade de dados desestruturados para ajudar a identificar, desenvolver, e até mesmo criar uma nova oportunidade de estratégia de negócios. O objetivo do BI é permitir uma fácil interpretação do grande volume de dados. Identificando novas oportunidades e implementando uma estratégia efetiva baseada nos dados, também pode promover negócios com vantagem competitiva no mercado e estabilidade a longo prazo.",
+		"url": "https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_empresarial"
+	},
+	{
+		"nome": "Learning Analytics",
+		"pai": "Análise de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Mineração de Dados (Data Mining)",
+		"pai": "Análise de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Stock Market Analytics",
+		"pai": "Análise de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Text Analytics",
+		"pai": "Análise de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Text Mining",
+		"pai": "Análise de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Análise de Negócios",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Business Analysis Body of Knowledge (BABOK)",
+		"pai": "Análise de Negócios",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Modelos de maturidade de processos de software",
+		"pai": "Análise de Negócios",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Modelos de Negócio",
+		"pai": "Análise de Negócios",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Análise de Risco",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Análise e Desenvolvimento de Software",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Análise de Sistemas",
+		"pai": "Análise e Desenvolvimento de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Desenvolvimento Orientado a Comportamento (Behavior Driven Development) (BDD)",
+		"pai": "Análise e Desenvolvimento de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Desenvolvimento Orientado a Testes (Test Driven Development) (TDD)",
+		"pai": "Análise e Desenvolvimento de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Modelagem de Software",
+		"pai": "Análise e Desenvolvimento de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Projeto de Sistemas",
+		"pai": "Análise e Desenvolvimento de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Aplicações de alto desempenho",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Arquitetura de Software",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Arquitetura Orientada a Serviços (SOA)",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Computação em Nuvem (Cloud Computing)",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Domain Driven Design (DDD)",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Entrega Contínua (CD)",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Integração Contínua (CI)",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Microserviços (Microservices)",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Model-View-Controller (MVC)",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "REST e RESTFUL",
+		"pai": "Arquitetura de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Automação de Ambientes",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Industrial",
+		"pai": "Automação de Ambientes",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Predial",
+		"pai": "Automação de Ambientes",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Residencial (Domótica)",
+		"pai": "Automação de Ambientes",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Bancos de Dados",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Distribuídos",
+		"pai": "Bancos de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Não-relacionais (NoSQL)",
+		"pai": "Bancos de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Relacionais",
+		"pai": "Bancos de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Tempo Real (Real Time)",
+		"pai": "Bancos de Dados",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Big Data",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Bioinformática",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Genoma",
+		"pai": "Bioinformática",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Proteoma",
+		"pai": "Bioinformática",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Biologia Computacional",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Ciência da Computação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Complexidade de Algoritmos",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Computação Gráfica (CG)",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Aplicações em Medicina",
+		"pai": "Computação Gráfica (CG)",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Desenvolvimento de Sistemas",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Desktop",
+		"pai": "Desenvolvimento de Sistemas",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Dispositivos móveis (Mobile)",
+		"pai": "Desenvolvimento de Sistemas",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Web",
+		"pai": "Desenvolvimento de Sistemas",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Educação à Distância",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Eficiência energética",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Eletrônica",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Engenharia de Computação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Engenharia de Requisitos",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Engenharia de Sistemas Eletrônicos",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Engenharia de Software",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Engenharia Reversa",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Estatística",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Estratégia de Inovação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Frameworks de Software",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": ".Net Framework",
+		"pai": "Frameworks de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Java EE, Jakarta EE",
+		"pai": "Frameworks de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Java SDK",
+		"pai": "Frameworks de Software",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Frameworks para Aplicativos",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Angular",
+		"pai": "Frameworks para Aplicativos",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Capacitor",
+		"pai": "Frameworks para Aplicativos",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Firebase",
+		"pai": "Frameworks para Aplicativos",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Ionic",
+		"pai": "Frameworks para Aplicativos",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Gestão de Negócio",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Customer Relations Management (CRM)",
+		"pai": "Gestão de Negócio",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Enterprise Resource Planning (ERP)",
+		"pai": "Gestão de Negócio",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Tecnologia da Informação e Sustentabilidade",
+		"pai": "Gestão de Negócio",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Gestão de Projetos",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Application Lifecyle Management (ALM)",
+		"pai": "Gestão de Projetos",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "PMBOK",
+		"pai": "Gestão de Projetos",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Gestão de TI",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Automatização de Fluxos de Processo",
+		"pai": "Gestão de TI",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Control Objectives for Information and Related Technologies (COBIT)",
+		"pai": "Gestão de TI",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Information Technology Infrastructure Library (ITIL)",
+		"pai": "Gestão de TI",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Mapeamento de Processos",
+		"pai": "Gestão de TI",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Identificação por radiofrequência (RFID)",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Indústria 4.0",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Inovação Tecnológica",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Inteligência Artificial",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Inteligência Computacional",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Aprendizado de Máquina (Machine Learning) (ML)",
+		"pai": "Inteligência Computacional",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Deep Learning",
+		"pai": "Inteligência Computacional",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Inteligência Artificial (IA) (AI)",
+		"pai": "Inteligência Computacional",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Processamento de Linguagem Natural (Natural Language Processing) (NLP)",
+		"pai": "Inteligência Computacional",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Visão Computacional",
+		"pai": "Inteligência Computacional",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Interface Humano-Computador (IHC)",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Tecnologias Assistivas",
+		"pai": "Interface Humano-Computador (IHC)",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Internet das Coisas (IoT)",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Cidades Inteligentes (Smart City)",
+		"pai": "Internet das Coisas (IoT)",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Internet das Coisas na Indústria (IIoT)",
+		"pai": "Internet das Coisas (IoT)",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Jogos Educacionais",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Linguagem de Programação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Java",
+		"pai": "Linguagem de Programação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Python",
+		"pai": "Linguagem de Programação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "R",
+		"pai": "Linguagem de Programação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Typescript",
+		"pai": "Linguagem de Programação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Lógica Difusa (Lógica Fuzzy)",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Medicina",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas de gestão e visualização de imagens radiológicas",
+		"pai": "Medicina",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Metodologias Ágeis",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "DevOps",
+		"pai": "Metodologias Ágeis",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "DevSecOps",
+		"pai": "Metodologias Ágeis",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Requisitos Ágeis",
+		"pai": "Metodologias Ágeis",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "SCRUM",
+		"pai": "Metodologias Ágeis",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Microcontroladores",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Arduino",
+		"pai": "Microcontroladores",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "MPLAB",
+		"pai": "Microcontroladores",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Microeletrônica",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "FPGA",
+		"pai": "Microeletrônica",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "VHDL",
+		"pai": "Microeletrônica",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Multimídia",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Paradigmas de Linguagens de Programação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Pesquisa Operacional",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Processamento de Sinais",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Processamento de Imagem",
+		"pai": "Processamento de Sinais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Processamento de Som",
+		"pai": "Processamento de Sinais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Processamento de Vídeo",
+		"pai": "Processamento de Sinais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Programação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Programação e Algoritmos",
+		"pai": "Programação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Programação e Concorrência",
+		"pai": "Programação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Programação e Paralelismo",
+		"pai": "Programação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Qualidade de Software (QA)",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Testes automatizados",
+		"pai": "Qualidade de Software (QA)",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Testes e inspeções de qualidade de software",
+		"pai": "Qualidade de Software (QA)",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Redes de Computadores",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Criptografia em Redes de Computadores",
+		"pai": "Redes de Computadores",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Forense Digital em Redes de Computadores",
+		"pai": "Redes de Computadores",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Segurança de Redes de Computadores",
+		"pai": "Redes de Computadores",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Robótica",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas de Computação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas de Informação",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Fundamentos de Sistemas de Informação",
+		"pai": "Sistemas de Informação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas de Informação e Aplicações",
+		"pai": "Sistemas de Informação",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas Distribuídos",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas Embarcados",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas Operacionais",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Android",
+		"pai": "Sistemas Operacionais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Contêineres (Containers)",
+		"pai": "Sistemas Operacionais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Contêinerização (Containerization)",
+		"pai": "Sistemas Operacionais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Linux",
+		"pai": "Sistemas Operacionais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Linux para Sistemas Embarcados",
+		"pai": "Sistemas Operacionais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Máquinas Virtuais (VM)",
+		"pai": "Sistemas Operacionais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Windows",
+		"pai": "Sistemas Operacionais",
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Sistemas Paralelos",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Telecomunicações",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	},
+	{
+		"nome": "Tomada de Decisão com Lógica Fuzzy",
+		"pai": null,
+		"descricao": null,
+		"url": null
+	}
+]
