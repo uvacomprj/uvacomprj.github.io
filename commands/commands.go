@@ -9,6 +9,7 @@ import (
 var factoryFunctions = make(map[string]commandHandlerFactory)
 
 func Init() {
+	factoryFunctions["help"] = newHelpFactory("help")
 	factoryFunctions["emails"] = newEmailsFactory("emails")
 	factoryFunctions["grupos"] = newGruposFactory("grupos")
 	factoryFunctions["readme"] = newReadmeFactory("readme")
