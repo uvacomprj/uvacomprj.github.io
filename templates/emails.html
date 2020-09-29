@@ -1,13 +1,12 @@
 <pre><strong>COORDENAÇÕES</strong></pre>
-<pre><strong>------------</strong></pre>
+
 {{ range .Cursos }}
 &#187;&#187; <strong>{{.Nome}}</strong> &#171;&#171;
-&#8226; Coordenador: <em><strong>{{.Coordenador.Nome}}</strong></em> - {{range .Coordenador.MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}{{if .Representante}}
-&#8226; Representante: <em><strong>{{.Representante.Nome}}</strong></em> - {{range .Representante.MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}{{end}}
+&#8226; Coordenador: <strong>{{.Coordenador.Nome}}</strong> - {{range .Coordenador.MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}{{if .Representante}}
+&#8226; Representante: <strong>{{.Representante.Nome}}</strong> - {{range .Representante.MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}{{end}}
 {{else}}<em>Nenhuma coordenação cadastrada.</em>{{ end }}
 
 <pre><strong>CORPO DOCENTE</strong></pre>
-<pre><strong>-------------</strong></pre>
 
-{{ range .Docentes }}&#8226; <em><strong>{{.Nome}}</strong></em> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}
+{{ range .Docentes }}&#8226; <strong>{{.Nome}}</strong> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}
 {{ else }}<em>Nenhum docente cadastrado.</em>{{ end }}

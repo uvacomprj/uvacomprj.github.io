@@ -6,11 +6,11 @@ Não encontrei nenhum contato com nome contendo{{ if gt (len .ContatosFuzzy) 0 }
 
 {{ if gt (len .ContatosFuzzy) 0 }}Mas encontrei <strong>{{ len .ContatosFuzzy }}</strong> contato(s) contendo o nome <em>"{{ .Query }}"</em> em modo de busca <em>fuzzy</em>:
 {{ range .ContatosFuzzy }}
-&#8226; <em><strong>{{.Nome}}</strong></em> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}{{ end }}
+&#8226; <strong>{{.Nome}}</strong> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}{{ end }}
 {{ end }}
 {{ else }}
 Encontrei <strong>{{ len .Contatos }}</strong> contato(s) com nome contendo <em>"{{ .Query }}"</em>:
 
-{{ range .Contatos }}&#8226; <em><strong>{{.Nome}}</strong></em> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}
+{{ range .Contatos }}&#8226; <strong>{{.Nome}}</strong> - {{range .MeiosContato}}{{if eq .Tipo "email"}}{{.Valor}}, {{end}}{{end}}
 {{ end }}{{ end }}
 {{end}}
