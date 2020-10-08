@@ -104,6 +104,10 @@ As linhas de pesquisa respectiva à cada professor (não inclui todos) encontra-
 - Banco de Dados
 - Desenvolvimento de Sistemas (Web, Mobile, Desktop)
 
+### Adriana Maria Balena Tostes
+##### _adriana.tostes@uva.br_
+
+_(Temas para orientação em Monografia não informados)_
 
 ### Ana Maria dos Santos Vianna
 ##### _ana.vianna@uva.br_
