@@ -53,6 +53,13 @@
             { "tipo": "email", "valor": "adriana.nascimento@uva.br", "tags": [ "Principal", "Institucional" ] }
         ]
     },
+    {   "fnid": "adriana maria balena tostes",
+        "nome": "Adriana Maria Balena Tostes",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "adriana.tostes@uva.br", "tags": [ "Principal", "Institucional" ] }
+        ]
+    },
     {   "fnid": "ana maria dos santos vianna",
         "nome": "Ana Maria dos Santos Vianna",
         "tipo": "docente",
