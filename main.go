@@ -13,7 +13,9 @@ import (
 
 func main() {
 	model.Init()
+	log.Printf("Dados carregados.")
 	commands.Init()
+	log.Printf("Comandos configurados.")
 
 	token := os.Getenv("TOKEN")
 	bot, err := tgbotapi.NewBotAPI(token)
