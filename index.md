@@ -117,6 +117,10 @@ _(Temas para orientação em Monografia não informados)_
 - Jogos Educacionais
 - Educação a Distância
 
+### Alessandro Orofino
+##### _(e-mail institucional não informado)_
+
+_(Temas de pesquisa não informados)_
 
 ### Alfredo Nazareno Pereira Boente
 ##### _alfredo.boente@uva.br_
