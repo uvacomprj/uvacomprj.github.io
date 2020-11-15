@@ -60,11 +60,11 @@
             { "tipo": "email", "valor": "adriana.tostes@uva.br", "tags": [ "Principal", "Institucional" ] }
         ]
     },
-    {   "fnid": "ana maria dos santos vianna",
-        "nome": "Ana Maria dos Santos Vianna",
+    {   "fnid": "alessandro orofino",
+        "nome": "Alessandro Orofino",
         "tipo": "docente",
         "meiosContato": [
-            { "tipo": "email", "valor": "ana.vianna@uva.br", "tags": [ "Principal", "Institucional" ] }
+            { "tipo": "email", "valor": "orofinoale@gmail.com", "tags": [ "Principal" ] }
         ]
     },
     {   "fnid": "alfredo nazareno pereira boente",
@@ -73,6 +73,13 @@
         "meiosContato": [
             { "tipo": "email", "valor": "alfredo.boente@uva.br", "tags": [ "Principal", "Institucional" ] },
             { "tipo": "email", "valor": "professor@boente.eti.br", "tags": [ "Externo" ] }
+        ]
+    },
+    {   "fnid": "ana maria dos santos vianna",
+        "nome": "Ana Maria dos Santos Vianna",
+        "tipo": "docente",
+        "meiosContato": [
+            { "tipo": "email", "valor": "ana.vianna@uva.br", "tags": [ "Principal", "Institucional" ] }
         ]
     },
     {   "fnid": "andre lucio de oliveira",
