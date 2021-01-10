@@ -242,25 +242,6 @@ _(Temas de pesquisa não informados)_
 - Sistemas de gestão e visualização de imagens radiológicas.
 
 
-### Fernando Hideo Fukuda
-##### _fernando.fukuda@uva.br_
-
-- Engenharia de Computação
-- Engenharia Sistemas Eletrônicos
-- Ciência da Computação
-- Stock Market Data Analytics, Data Science (R, Python)
-- Data Analytics, Data Mining (R, Python)
-- Text Analytics, Text Mining (R, Python)
-- Learning Analytics (R, Python)
-- Sistemas de Computação, Web Apps (Angular, Typescript, Firebase)
-- Mobile Apps (Ionic, Capacitor, Firebase)
-- Inteligência Artificial (R, Python)
-- Deep Learning (R, Python)
-- Machine Learning (R, Python)
-- Natural Language Processing - NLP (R, Python)
-- IoT, Industry Internet of Thing (IIoT), Indústria 4.0
-
-
 ### Marcelo Nascimento Costa
 ##### _marcelo.nascimento@uva.br_
 
