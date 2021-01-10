@@ -1,7 +1,7 @@
 [
     {   "fnid": "ciencia da computacao",
         "nome": "Ciência da Computação",
-        "coordenador": "fernando hideo fukuda",
+        "coordenador": "alfredo nazareno pereira boente",
         "representante": "flavio lisboa",
         "urls": [
             { "tipo": "site", "valor": "https://www.uva.br/content/ciencias-da-computacao" }
@@ -9,7 +9,7 @@
     },
     {   "fnid": "engenharia da computacao",
         "nome": "Engenharia da Computação",
-        "coordenador": "fernando hideo fukuda",
+        "coordenador": "alfredo nazareno pereira boente",
         "representante": null,
         "urls": [
             { "tipo": "site", "valor": "https://www.uva.br/content/engenharia-da-computacao" }

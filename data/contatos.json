@@ -23,18 +23,6 @@
             "Sistemas de Informação"
         ]
     },
-    {   "fnid": "fernando hideo fukuda",
-        "tipo": "docente",
-        "nome": "Fernando Hideo Fukuda",
-        "meiosContato": [
-            { "tipo": "email", "valor": "fernando.fukuda@uva.br", "tags": [ "Principal", "Institucional" ] }
-        ],
-        "tags": [
-            "Coordenador de Curso",
-            "Ciência da Computação",
-            "Engenharia da Computação"
-        ]
-    },
     {   "fnid": "claudio fico",
         "tipo": "docente",
         "nome": "Cláudio Fico",
