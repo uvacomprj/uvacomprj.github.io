@@ -230,18 +230,6 @@ _(Temas de pesquisa não informados)_
 - Big Data
 
 
-### Elias Restum Antônio
-##### _elias.antonio@uva.br_
-
-- Redes de Computadores;
-- Segurança em Redes;
-- Sistemas Operacionais;
-- Virtualização;
-- Sistemas Distribuídos;
-- Aplicações na área médica:
-- Sistemas de gestão e visualização de imagens radiológicas.
-
-
 ### Marcelo Nascimento Costa
 ##### _marcelo.nascimento@uva.br_
 
@@ -304,13 +292,3 @@ _(Temas de pesquisa não informados)_
 - Sistemas Embarcados
 - Otimização
 - Eficiência energética
-
-
-### Vincenzo De Roberto Junior 
-##### _vincenzo.junior@uva.br_
-
-- Banco de Dados
-- Programação
-- Redes de Computadores
-- Bioinformática (genoma e proteoma)
-- Computação Gráfica em Medicina
