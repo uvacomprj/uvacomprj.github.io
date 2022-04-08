@@ -138,7 +138,7 @@ _(Temas de pesquisa não informados)_
 - Banco de Dados
 - Desenvolvimento de Sistemas (Web, Mobile, Desktop)
 
-
+<!--
 ### Carlos Frederico Motta Vasconcelos
 ##### _carlos.vasconcelos@uva.br_
 
@@ -151,7 +151,7 @@ _(Temas de pesquisa não informados)_
 - Interfaces Humano Computador
 - Multimídia
 - Telecomunicações
-
+-->
 
 ### Claudio Jose Marques de Souza
 
